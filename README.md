@@ -1,0 +1,1 @@
+# Federated_learning_using_SGD_Newton_method_and_Richardson
